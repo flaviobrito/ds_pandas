@@ -1,2 +1,2 @@
 # ds_pandas
-DS Pandas Trainning
+DS Pandas - Workshop
